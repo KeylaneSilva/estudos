@@ -16,8 +16,30 @@
 #### <a name="o-que-js">O que é o JS?<a/>
 #### <a name="funciona-js">Como funciona o JS?<a/>
 #### <a name="tipo-dados">Quais são os tipos de dados em JS?<a/>
+  
+  ##### *Tipos de dados Primitivos*
+      * Boolean
+      * Null
+      * Undefined
+      * Number
+      * BigInt
+      * String
+      * Symbol
+      * Object
+  
+ ##### *Tipos de dados de uma variável em JavaScript*
+      * String
+      * Numérico
+      * Booleano
+      * Array
+      * Obejeto
+      * Função
+      
+
 #### <a name="igualdade">Qual a diferença entre =, == e === ?<a/>
 #### <a name="let-var-const">Diferença entre var, let e const<a/>
+  
+  
 #### <a name="hoisting">O que é hoisting (içamento)?<a/>
 #### <a name="callback-hell">O que é callback hell?<a/>
 #### <a name="array">Explique o que fazem esses métodos de array: push, pop, shift, unshift,map, filter, eytc..<a/>
