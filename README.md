@@ -12,6 +12,7 @@
 10. [O que é escopo?](#escopo)
 11. [Promisses vs Callbacks](#promisses-callback)
 12. [Cite algumas features do ES6](#featuresES6)
+13. O que são estruturas de dados?
 
 #### <a name="o-que-js">O que é o JS?<a/>
 #### <a name="funciona-js">Como funciona o JS?<a/>
