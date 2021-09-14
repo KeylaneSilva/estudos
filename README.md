@@ -16,6 +16,10 @@
 
 #### <a name="o-que-js">O que é o JS?<a/>
 #### <a name="funciona-js">Como funciona o JS?<a/>
+   O google chrome usa a engine v8 (open source escrita em c++). A engine v8 serve          para interpretar o um código javascript. A v8 foi projetada para aumentar a              performace de execução do JS dentro do navegador, ele compila código JS em código        de máquina ao invés de usar um interpretador. Ele compila de JS para código de          máquina em tempo de execução, implementando um compilador JIT (just in time).
+  
+  ```JS => c++ => Assembly => Machine Code ```
+  
 #### <a name="tipo-dados">Quais são os tipos de dados em JS?<a/>
   
   ##### *Tipos de dados Primitivos*
